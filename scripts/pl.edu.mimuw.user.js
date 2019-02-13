@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         mimuw.edu.pl Resource QoL
 // @namespace    http://jaku255.github.io/
-// @version      0.1
+// @version      0.2
 // @description  Inject missing MathJax in wazniak and smurf export, replace formula images with real formulas, render formulas in pre tags, and more!
 // @author       jaku255
-// @updateURL    https://gitcdn.link/repo/jaku255/webscripts/master/scripts/pl.edu.mimuw.js
-// @downloadURL  https://gitcdn.link/repo/jaku255/webscripts/master/scripts/pl.edu.mimuw.js
+// @updateURL    https://gitcdn.link/repo/jaku255/webscripts/master/scripts/pl.edu.mimuw.user.js
+// @downloadURL  https://gitcdn.link/repo/jaku255/webscripts/master/scripts/pl.edu.mimuw.user.js
 // @match        http://wazniak.mimuw.edu.pl/*
 // @match        http://smurf.mimuw.edu.pl/book/export/html/*
 // @grant        none
